@@ -1,0 +1,174 @@
+2023-06-30 20:26:12,335: root: INFO: TrendFollowingStrategy : Executing the initialize lifecycle method
+2023-06-30 20:26:13,165: alpaca_trade_api.stream: INFO: connected to: wss://paper-api.alpaca.markets/stream/
+2023-06-30 20:26:17,499: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,499: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,500: root: WARNING: Unable to find 'dividend' column in bars
+2023-06-30 20:26:17,994: root: INFO: TrendFollowingStrategy : Executing the before_starting_trading lifecycle method
+2023-06-30 20:26:18,747: root: INFO: TrendFollowingStrategy : Executing the on_trading_iteration lifecycle method
+2023-06-30 20:26:19,461: root: INFO: Getting historical prices for AMD, 5 bars, day
+2023-06-30 20:26:19,746: root: INFO: Getting historical prices for AMD, 430 bars, day
+2023-06-30 20:26:20,042: root: INFO: Getting historical prices for INTC, 5 bars, day
+2023-06-30 20:26:20,333: root: INFO: Getting historical prices for INTC, 430 bars, day
+2023-06-30 20:26:20,633: root: INFO: Getting historical prices for NVDA, 5 bars, day
+2023-06-30 20:26:20,915: root: INFO: Getting historical prices for NVDA, 430 bars, day
+2023-06-30 20:26:21,222: root: INFO: Getting historical prices for AAPL, 5 bars, day
+2023-06-30 20:26:21,516: root: INFO: Getting historical prices for AAPL, 430 bars, day
+2023-06-30 20:26:21,822: root: INFO: Getting historical prices for TSLA, 430 bars, day
+2023-06-30 20:26:22,123: root: INFO: Getting historical prices for PLTR, 5 bars, day
+2023-06-30 20:26:22,411: root: INFO: Getting historical prices for PLTR, 430 bars, day
+2023-06-30 20:26:22,710: root: INFO: Getting historical prices for AMZN, 5 bars, day
+2023-06-30 20:26:22,999: root: INFO: Getting historical prices for AMZN, 430 bars, day
+2023-06-30 20:26:23,292: root: INFO: Getting historical prices for F, 430 bars, day
+2023-06-30 20:26:23,595: root: INFO: Getting historical prices for AI, 5 bars, day
+2023-06-30 20:26:23,883: root: INFO: Getting historical prices for AI, 430 bars, day
+2023-06-30 20:26:24,191: root: INFO: Getting historical prices for GOOGL, 430 bars, day
+2023-06-30 20:26:24,489: root: INFO: Getting historical prices for IBM, 430 bars, day
+2023-06-30 20:26:24,790: root: INFO: Getting historical prices for META, 5 bars, day
+2023-06-30 20:26:25,075: root: INFO: Getting historical prices for META, 430 bars, day
+2023-06-30 20:26:25,397: root: INFO: Getting historical prices for BAC, 430 bars, day
+2023-06-30 20:26:25,698: root: INFO: Getting historical prices for BABA, 430 bars, day
+2023-06-30 20:26:26,025: root: INFO: Getting historical prices for GOOG, 430 bars, day
+2023-06-30 20:26:26,392: root: INFO: Getting historical prices for SONY, 5 bars, day
+2023-06-30 20:26:26,694: root: INFO: Getting historical prices for SONY, 430 bars, day
+2023-06-30 20:26:27,045: root: INFO: Getting historical prices for ASML, 5 bars, day
+2023-06-30 20:26:27,331: root: INFO: Getting historical prices for ASML, 430 bars, day
+2023-06-30 20:26:27,624: root: INFO: Getting historical prices for SAP, 5 bars, day
+2023-06-30 20:26:27,935: root: INFO: Getting historical prices for SAP, 430 bars, day
+2023-06-30 20:26:28,267: root: INFO: Getting historical prices for TSM, 5 bars, day
+2023-06-30 20:26:28,553: root: INFO: Getting historical prices for TSM, 430 bars, day
+2023-06-30 20:26:28,897: root: INFO: Getting historical prices for MU, 5 bars, day
+2023-06-30 20:26:29,197: root: INFO: Getting historical prices for MU, 430 bars, day
+2023-06-30 20:26:29,495: root: INFO: Getting historical prices for VMW, 5 bars, day
+2023-06-30 20:26:29,783: root: INFO: Getting historical prices for VMW, 430 bars, day
+2023-06-30 20:26:30,144: root: INFO: Getting historical prices for DELL, 5 bars, day
+2023-06-30 20:26:30,450: root: INFO: Getting historical prices for DELL, 430 bars, day
+2023-06-30 20:26:30,783: root: INFO: Getting historical prices for HPQ, 5 bars, day
+2023-06-30 20:26:31,086: root: INFO: Getting historical prices for HPQ, 430 bars, day
+2023-06-30 20:26:31,393: root: INFO: Getting historical prices for NET, 430 bars, day
+2023-06-30 20:26:31,971: root: INFO: Getting historical prices for STX, 430 bars, day
+2023-06-30 20:26:32,110: root: INFO: market order of | 0 NET buy | with status error did not go through. The following error occured: qty must be > 0
+2023-06-30 20:26:32,274: root: INFO: Getting historical prices for JNPR, 430 bars, day
+2023-06-30 20:26:32,615: root: INFO: Getting historical prices for LOGI, 5 bars, day
+2023-06-30 20:26:32,934: root: INFO: Getting historical prices for LOGI, 430 bars, day
+2023-06-30 20:26:33,242: root: INFO: Getting historical prices for SONO, 430 bars, day
+2023-06-30 20:26:33,546: root: INFO: Getting historical prices for CRSR, 5 bars, day
+2023-06-30 20:26:33,835: root: INFO: Getting historical prices for CRSR, 430 bars, day
+2023-06-30 20:26:34,132: root: INFO: Getting historical prices for NTGR, 430 bars, day
+2023-06-30 20:26:34,572: root: INFO: TrendFollowingStrategy : Sleeping for 60 seconds
+2023-06-30 20:27:35,150: root: INFO: TrendFollowingStrategy : Executing the on_trading_iteration lifecycle method
+2023-06-30 20:27:35,855: root: INFO: Getting historical prices for AMD, 5 bars, day
+2023-06-30 20:27:36,152: root: INFO: Getting historical prices for AMD, 430 bars, day
+2023-06-30 20:27:36,460: root: INFO: Getting historical prices for INTC, 5 bars, day
+2023-06-30 20:27:36,746: root: INFO: Getting historical prices for INTC, 430 bars, day
+2023-06-30 20:27:37,045: root: INFO: Getting historical prices for NVDA, 5 bars, day
+2023-06-30 20:27:37,372: root: INFO: Getting historical prices for NVDA, 430 bars, day
+2023-06-30 20:27:37,669: root: INFO: Getting historical prices for AAPL, 5 bars, day
+2023-06-30 20:27:37,955: root: INFO: Getting historical prices for AAPL, 430 bars, day
+2023-06-30 20:27:38,250: root: INFO: Getting historical prices for TSLA, 430 bars, day
+2023-06-30 20:27:38,550: root: INFO: Getting historical prices for PLTR, 5 bars, day
+2023-06-30 20:27:38,868: root: INFO: Getting historical prices for PLTR, 430 bars, day
+2023-06-30 20:27:39,162: root: INFO: Getting historical prices for AMZN, 5 bars, day
+2023-06-30 20:27:39,459: root: INFO: Getting historical prices for AMZN, 430 bars, day
+2023-06-30 20:27:39,763: root: INFO: Getting historical prices for F, 430 bars, day
+2023-06-30 20:27:40,058: root: INFO: Getting historical prices for AI, 5 bars, day
+2023-06-30 20:27:40,406: root: INFO: Getting historical prices for AI, 430 bars, day
+2023-06-30 20:27:40,710: root: INFO: Getting historical prices for GOOGL, 430 bars, day
+2023-06-30 20:27:41,009: root: INFO: Getting historical prices for IBM, 430 bars, day
+2023-06-30 20:27:41,355: root: INFO: Getting historical prices for META, 5 bars, day
+2023-06-30 20:27:41,642: root: INFO: Getting historical prices for META, 430 bars, day
+2023-06-30 20:27:41,952: root: INFO: Getting historical prices for BAC, 430 bars, day
+2023-06-30 20:27:42,247: root: INFO: Getting historical prices for BABA, 430 bars, day
+2023-06-30 20:27:42,543: root: INFO: Getting historical prices for GOOG, 430 bars, day
+2023-06-30 20:27:42,840: root: INFO: Getting historical prices for SONY, 5 bars, day
+2023-06-30 20:27:43,129: root: INFO: Getting historical prices for SONY, 430 bars, day
+2023-06-30 20:27:43,435: root: INFO: Getting historical prices for ASML, 5 bars, day
+2023-06-30 20:27:43,719: root: INFO: Getting historical prices for ASML, 430 bars, day
+2023-06-30 20:27:44,086: root: INFO: Getting historical prices for SAP, 5 bars, day
+2023-06-30 20:27:44,376: root: INFO: Getting historical prices for SAP, 430 bars, day
+2023-06-30 20:27:44,732: root: INFO: Getting historical prices for TSM, 5 bars, day
+2023-06-30 20:27:45,016: root: INFO: Getting historical prices for TSM, 430 bars, day
+2023-06-30 20:27:45,334: root: INFO: Getting historical prices for MU, 5 bars, day
+2023-06-30 20:27:45,661: root: INFO: Getting historical prices for MU, 430 bars, day
+2023-06-30 20:27:45,959: root: INFO: Getting historical prices for VMW, 5 bars, day
+2023-06-30 20:27:46,272: root: INFO: Getting historical prices for VMW, 430 bars, day
+2023-06-30 20:27:46,577: root: INFO: Getting historical prices for DELL, 5 bars, day
+2023-06-30 20:27:46,870: root: INFO: Getting historical prices for DELL, 430 bars, day
+2023-06-30 20:27:47,209: root: INFO: Getting historical prices for HPQ, 5 bars, day
+2023-06-30 20:27:47,491: root: INFO: Getting historical prices for HPQ, 430 bars, day
+2023-06-30 20:27:47,795: root: INFO: Getting historical prices for NET, 430 bars, day
+2023-06-30 20:27:48,522: root: INFO: Getting historical prices for STX, 430 bars, day
+2023-06-30 20:27:48,663: root: INFO: market order of | 0 NET buy | with status error did not go through. The following error occured: qty must be > 0
+2023-06-30 20:27:48,882: root: INFO: Getting historical prices for JNPR, 430 bars, day
+2023-06-30 20:27:49,192: root: INFO: Getting historical prices for LOGI, 5 bars, day
+2023-06-30 20:27:49,505: root: INFO: Getting historical prices for LOGI, 430 bars, day
+2023-06-30 20:27:49,864: root: INFO: Getting historical prices for SONO, 430 bars, day
+2023-06-30 20:27:50,173: root: INFO: Getting historical prices for CRSR, 5 bars, day
+2023-06-30 20:27:50,501: root: INFO: Getting historical prices for CRSR, 430 bars, day
+2023-06-30 20:27:50,835: root: INFO: Getting historical prices for NTGR, 430 bars, day
+2023-06-30 20:27:51,277: root: INFO: TrendFollowingStrategy : Sleeping for 60 seconds
+2023-06-30 20:28:51,874: root: INFO: TrendFollowingStrategy : Executing the on_trading_iteration lifecycle method
+2023-06-30 20:28:52,638: root: INFO: Getting historical prices for AMD, 5 bars, day
+2023-06-30 20:28:52,932: root: INFO: Getting historical prices for AMD, 430 bars, day
+2023-06-30 20:28:53,238: root: INFO: Getting historical prices for INTC, 5 bars, day
+2023-06-30 20:28:53,522: root: INFO: Getting historical prices for INTC, 430 bars, day
+2023-06-30 20:28:53,838: root: INFO: Getting historical prices for NVDA, 5 bars, day
+2023-06-30 20:28:54,121: root: INFO: Getting historical prices for NVDA, 430 bars, day
+2023-06-30 20:28:54,425: root: INFO: Getting historical prices for AAPL, 5 bars, day
+2023-06-30 20:28:54,730: root: INFO: Getting historical prices for AAPL, 430 bars, day
+2023-06-30 20:28:55,036: root: INFO: Getting historical prices for TSLA, 430 bars, day
+2023-06-30 20:28:55,340: root: INFO: Getting historical prices for PLTR, 5 bars, day
+2023-06-30 20:28:55,630: root: INFO: Getting historical prices for PLTR, 430 bars, day
+2023-06-30 20:28:55,931: root: INFO: Getting historical prices for AMZN, 5 bars, day
+2023-06-30 20:28:56,216: root: INFO: Getting historical prices for AMZN, 430 bars, day
+2023-06-30 20:28:56,523: root: INFO: Getting historical prices for F, 430 bars, day
+2023-06-30 20:28:56,818: root: INFO: Getting historical prices for AI, 5 bars, day
+2023-06-30 20:28:57,103: root: INFO: Getting historical prices for AI, 430 bars, day
+2023-06-30 20:28:57,402: root: INFO: Getting historical prices for GOOGL, 430 bars, day
+2023-06-30 20:28:57,701: root: INFO: Getting historical prices for IBM, 430 bars, day
+2023-06-30 20:28:58,001: root: INFO: Getting historical prices for META, 5 bars, day
+2023-06-30 20:28:58,287: root: INFO: Getting historical prices for META, 430 bars, day
+2023-06-30 20:28:58,590: root: INFO: Getting historical prices for BAC, 430 bars, day
+2023-06-30 20:28:58,890: root: INFO: Getting historical prices for BABA, 430 bars, day
+2023-06-30 20:28:59,187: root: INFO: Getting historical prices for GOOG, 430 bars, day
+2023-06-30 20:28:59,489: root: INFO: Getting historical prices for SONY, 5 bars, day
+2023-06-30 20:28:59,775: root: INFO: Getting historical prices for SONY, 430 bars, day
+2023-06-30 20:29:00,076: root: INFO: Getting historical prices for ASML, 5 bars, day
+2023-06-30 20:29:00,360: root: INFO: Getting historical prices for ASML, 430 bars, day
+2023-06-30 20:29:00,667: root: INFO: Getting historical prices for SAP, 5 bars, day
+2023-06-30 20:29:00,956: root: INFO: Getting historical prices for SAP, 430 bars, day
+2023-06-30 20:29:01,254: root: INFO: Getting historical prices for TSM, 5 bars, day
+2023-06-30 20:29:01,548: root: INFO: Getting historical prices for TSM, 430 bars, day
+2023-06-30 20:29:01,851: root: INFO: Getting historical prices for MU, 5 bars, day
+2023-06-30 20:29:02,135: root: INFO: Getting historical prices for MU, 430 bars, day
+2023-06-30 20:29:02,438: root: INFO: Getting historical prices for VMW, 5 bars, day
+2023-06-30 20:29:02,738: root: INFO: Getting historical prices for VMW, 430 bars, day
+2023-06-30 20:29:03,045: root: INFO: Getting historical prices for DELL, 5 bars, day
+2023-06-30 20:29:03,338: root: INFO: Getting historical prices for DELL, 430 bars, day
+2023-06-30 20:29:03,660: root: INFO: Getting historical prices for HPQ, 5 bars, day
+2023-06-30 20:29:03,946: root: INFO: Getting historical prices for HPQ, 430 bars, day
+2023-06-30 20:29:04,259: root: INFO: Getting historical prices for NET, 430 bars, day
+2023-06-30 20:29:04,982: root: INFO: Getting historical prices for STX, 430 bars, day
+2023-06-30 20:29:05,120: root: INFO: market order of | 0 NET buy | with status error did not go through. The following error occured: qty must be > 0
+2023-06-30 20:29:05,288: root: INFO: Getting historical prices for JNPR, 430 bars, day
+2023-06-30 20:29:05,585: root: INFO: Getting historical prices for LOGI, 5 bars, day
+2023-06-30 20:29:05,871: root: INFO: Getting historical prices for LOGI, 430 bars, day
+2023-06-30 20:29:06,166: root: INFO: Getting historical prices for SONO, 430 bars, day
+2023-06-30 20:29:06,465: root: INFO: Getting historical prices for CRSR, 5 bars, day
+2023-06-30 20:29:06,765: root: INFO: Getting historical prices for CRSR, 430 bars, day
+2023-06-30 20:29:07,064: root: INFO: Getting historical prices for NTGR, 430 bars, day
+2023-06-30 20:29:07,522: root: INFO: TrendFollowingStrategy : Sleeping for 60 seconds
