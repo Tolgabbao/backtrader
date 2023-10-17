@@ -1,0 +1,4 @@
+class AlpacaConfig:
+    API_KEY = 'YOUR AlPACA API KEY HERE'
+    API_SECRET = 'YOUR ALPACA API SECRET KEY HERE'
+    ENDPOINT = 'https://paper-api.alpaca.markets'
